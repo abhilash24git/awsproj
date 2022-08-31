@@ -1,0 +1,6 @@
+customhost = "demords.c1h3q8wr0qzi.us-west-1.rds.amazonaws.com"
+customuser = "abhi "
+custompass = "12345678"
+customdb = "demords"
+custombucket = "abhi223"
+customregion = "us-west-1"
